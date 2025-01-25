@@ -7,7 +7,10 @@
     width: 1440px;
     height: 4792px;
     background: #EFF0F3;
-
+}
+header>h1{
+    color: #001858;
+    margin-left: 100px;
 }
 header{
     width: 1440px;
@@ -27,11 +30,7 @@ nav{
     gap: 50px;
     width: 843px;
 }
-header >img{
-    width: 194px;
-    height: 45px;
-    margin-left: 95px;
-}
+
 .blue{
     background: #6246EA;
 }
